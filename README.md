@@ -16,6 +16,7 @@
 | class04 |  [read04](https://osamamomani1.github.io/reading-notes-301/class4) | 
 | class06 |  [read06](https://osamamomani1.github.io/reading-notes-301/class6) | 
 | class07 |  [read07](https://osamamomani1.github.io/reading-notes-301/class7) | 
+| class08 |  [read08](https://osamamomani1.github.io/reading-notes-301/class8) | 
 
 
 ## Code 401 - Advanced Software Development
