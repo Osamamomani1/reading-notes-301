@@ -34,4 +34,4 @@
 | read01a  |    [read01a](https://osamamomani1.github.io/reading-notes-301/read01a) |
 | read02  |    [read02](https://osamamomani1.github.io/reading-notes-301/read02) |
 | read03  |    [read03](https://osamamomani1.github.io/reading-notes-301/read03) |
-| read04  |    [read04](https://osamamomani1.github.io/reading-notes-304/read03) |
+| read04  |    [read04](https://osamamomani1.github.io/reading-notes-304/read04) |
