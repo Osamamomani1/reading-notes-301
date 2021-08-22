@@ -38,4 +38,5 @@
 | read07  |    [read07](https://osamamomani1.github.io/reading-notes-304/read07) |
 | read08  |    [read08](https://osamamomani1.github.io/reading-notes-304/read08) |
 | read11  |    [read11](https://osamamomani1.github.io/reading-notes-301/read11) |
+| read12  |    [read12](https://osamamomani1.github.io/reading-notes-301/read12) |
 
