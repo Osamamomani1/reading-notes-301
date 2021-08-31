@@ -49,4 +49,5 @@
 | read16  |    [read16](https://osamamomani1.github.io/reading-notes-301/read16) |
 | read17  |    [read17](https://osamamomani1.github.io/reading-notes-301/read17) |
 | read18  |    [read18](https://osamamomani1.github.io/reading-notes-301/read18) |
+| read19  |    [read19](https://osamamomani1.github.io/reading-notes-301/read19) |
 
