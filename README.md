@@ -53,4 +53,5 @@
 | read26  |    [read26](https://osamamomani1.github.io/reading-notes-301/read26) |
 | read27  |    [read27](https://osamamomani1.github.io/reading-notes-301/read27) |
 | read28  |    [read28](https://osamamomani1.github.io/reading-notes-301/read28) |
+| read29  |    [read29](https://osamamomani1.github.io/reading-notes-301/read29) |
 
