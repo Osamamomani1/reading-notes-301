@@ -61,5 +61,6 @@
 | read36  |    [read36](https://osamamomani1.github.io/reading-notes-301/read36) |
 | read37  |    [read37](https://osamamomani1.github.io/reading-notes-301/read37) |
 | read38  |    [read38](https://osamamomani1.github.io/reading-notes-301/read38) |
+| read39  |    [read39](https://osamamomani1.github.io/reading-notes-301/read39) |
 
 
